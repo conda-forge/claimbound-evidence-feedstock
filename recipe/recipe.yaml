@@ -1,5 +1,5 @@
 context:
-  version: "0.4.8"
+  version: "0.5.0"
   python_min: "3.12"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/claimbound-evidence/claimbound_evidence-${{ version }}.tar.gz
-  sha256: e4366a6cd0bbd111013198159467b9957728d835ffc73c9914df738668549e2e
+  sha256: 67f8a0b0683c10a731760cf1b678b51381acbc008b81a0a4ca2881374a94cb7c
 
 build:
   number: 0
